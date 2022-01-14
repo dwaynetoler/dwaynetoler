@@ -17,7 +17,7 @@
 
 
 **🔰SKILLS:<br>**
-✅  HTML <br>
+✅ HTML <br>
 ✅ CSS <br>
 ✅ JS <br> 
 ✅ REACT <br>
@@ -30,6 +30,7 @@
 ☑ Google Data Analytics Certificate. <br> 
 ☑ Certified Associate in Project Management-(CAPM).<br> 
 ☑ Lawrence Technological University logo Six Sigma Black Belt Certification –Level I.<br> 
+
 
 
 
